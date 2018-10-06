@@ -9,6 +9,9 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * The real awesome list [Click Here!](https://github.com/sindresorhus/awesome#gaming)
 * Nifty Assignments [Click Here!](http://nifty.stanford.edu/)
 
+## Book
+*  Probabilistic-Robotics [Click Here!](http://www.probabilistic-robotics.org/)
+
 ## Computer Vision and Image Processing
 * A good course on Image processing (Pennstate University) [Click Here!](http://www.cse.psu.edu/~rtc12/CSE486/)
 
