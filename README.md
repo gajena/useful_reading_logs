@@ -35,3 +35,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 
 ## Programming
 * This is the source repository for the 2017 RoboJackets Software training program [Click Here!](https://github.com/RoboJackets/software-training)
+
+## Robotics Hardware
+* Rolling vs Global Shutter [Click Here!](http://www.arducam.com/camera-modules/camera-breakout-board/global-shutter-camera/)
+* List of Global shutter cameras [Click Here!](https://github.com/gajena/roc_the_saviour/wiki/Global-Shutter-Cameras)
