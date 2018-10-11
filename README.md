@@ -30,6 +30,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * Design and implementation of an unmanned Tail-Sitter [Click Here!](http://ieeexplore.ieee.org/document/7353624/)
 
 ## Probablistic Robotics
+* Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
 * Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](https://github.com/gajena/useful_reading_logs/blob/master/docs/27-03-2018.pdf)
 * Georgia Tech Smoothing and Mapping library -GTSAM- [Click Here!](https://bitbucket.org/gtborg/gtsam/src/develop/)
 
