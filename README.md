@@ -30,7 +30,6 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * Design and implementation of an unmanned Tail-Sitter [Click Here!](http://ieeexplore.ieee.org/document/7353624/)
 
 ## Probablistic Robotics
-* Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
 * Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](https://github.com/gajena/useful_reading_logs/blob/master/docs/27-03-2018.pdf)
 * Georgia Tech Smoothing and Mapping library -GTSAM- [Click Here!](https://bitbucket.org/gtborg/gtsam/src/develop/)
 
@@ -38,5 +37,6 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * This is the source repository for the 2017 RoboJackets Software training program [Click Here!](https://github.com/RoboJackets/software-training)
 
 ## Robotics Hardware
+* Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
 * Rolling vs Global Shutter [Click Here!](http://www.arducam.com/camera-modules/camera-breakout-board/global-shutter-camera/)
 * List of Global shutter cameras [Click Here!](https://github.com/gajena/roc_the_saviour/wiki/Global-Shutter-Cameras)
