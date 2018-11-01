@@ -18,6 +18,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 ## Computational Geometry
 * Rapidly-exploring Random Trees (RRTs) page [Click Here!](http://msl.cs.uiuc.edu/rrt/)
 * This repository contains tools for polynomial trajectory generation and optimization [Click Here!](https://github.com/gajena/mav_trajectory_generation)
+* OMPL (open motion planning library) [Click Here!](http://ompl.kavrakilab.org/index.html)
 
 ## Deep Neural Network
 * Finding yoga-poses constellations in the night sky [Click Here!](http://community.wolfram.com/groups/-/m/t/1207400)
