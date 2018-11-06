@@ -37,6 +37,10 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 ## Programming
 * This is the source repository for the 2017 RoboJackets Software training program [Click Here!](https://github.com/RoboJackets/software-training)
 
+## Courses on AI and Robotics
+* Intro to Artificial Intelligence(https://classroom.udacity.com/courses/cs271)
+* Artificial Intelligence for Robots - Sebastian Thrun(https://classroom.udacity.com/courses/cs373)
+
 ## Robotics Hardware
 * Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
 * Rolling vs Global Shutter [Click Here!](http://www.arducam.com/camera-modules/camera-breakout-board/global-shutter-camera/)
