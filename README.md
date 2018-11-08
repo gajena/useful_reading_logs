@@ -4,7 +4,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 ## Aerial Robotics
 * Best documents about aerial robotics [Click Here!](http://www.kostasalexis.com/literature-and-links1.html)
 * Survey on Computer Vision for UAVs: Current Developments and Trends [Click Here!](https://link.springer.com/content/pdf/10.1007%2Fs10846-017-0483-z.pdf)
-* How drones work [Introduction](https://www.linkedin.com/pulse/how-do-drones-work-part-1-introduction-tiziano-fiorenzani/)
+* How drones work [Click Here!](https://www.linkedin.com/pulse/how-do-drones-work-part-1-introduction-tiziano-fiorenzani/)
 
 ## Awesome
 * The real awesome list [Click Here!](https://github.com/sindresorhus/awesome#gaming)
@@ -39,8 +39,8 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * This is the source repository for the 2017 RoboJackets Software training program [Click Here!](https://github.com/RoboJackets/software-training)
 
 ## Courses on AI and Robotics
-* Intro to Artificial Intelligence(https://classroom.udacity.com/courses/cs271)
-* Artificial Intelligence for Robots - Sebastian Thrun(https://classroom.udacity.com/courses/cs373)
+* Intro to Artificial Intelligence [Click Here!](https://classroom.udacity.com/courses/cs271)
+* Artificial Intelligence for Robots - Sebastian Thrun [Click Here!](https://classroom.udacity.com/courses/cs373)
 
 ## Robotics Hardware
 * Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
