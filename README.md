@@ -30,6 +30,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * A good course on Dynamics and Controls of Quadrotors(PennState) [Click Here!](https://www.coursera.org/learn/robotics-flight/home/welcome)
 * A good tutorials on PID tuning [Click Here!](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/)
 * Design and implementation of an unmanned Tail-Sitter [Click Here!](http://ieeexplore.ieee.org/document/7353624/)
+* Documents of Model Predictive Control [Click Here!](https://github.com/AerialRobotics-IITK/Wiki/wiki/Model-Predictive-Control-(MPC))
 
 ## Probablistic Robotics
 * Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](https://github.com/gajena/useful_reading_logs/blob/master/docs/27-03-2018.pdf)
