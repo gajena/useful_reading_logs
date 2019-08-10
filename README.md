@@ -50,6 +50,8 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 
 ## Programming
 * This is the source repository for the 2017 RoboJackets Software training program [Click Here!](https://github.com/RoboJackets/software-training)
+* The CPlusPlus Webpage [Click Here!](http://www.cplusplus.com/doc/tutorial/)
+* Google C++ style guide [Click Here!](https://google.github.io/styleguide/cppguide.html)
 
 ## Courses on AI and Robotics
 * Intro to Artificial Intelligence [Click Here!](https://classroom.udacity.com/courses/cs271)
