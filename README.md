@@ -1,6 +1,18 @@
 # useful_reading_logs
 Every day, I'm adding all the web links I've read and found useful or interesting. 
 
+* [Aerial Robotics](https://github.com/gajena/useful_reading_logs#aerial-robotics)
+* [Awesome](https://github.com/gajena/useful_reading_logs#awesome)
+* [Book](https://github.com/gajena/useful_reading_logs#book)
+* [Computer Vision and Image Processing](https://github.com/gajena/useful_reading_logs#computer-vision-and-image-processing)
+* [Computational Geometry](https://github.com/gajena/useful_reading_logs#computational-geometry)
+* [Deep Neural Network](https://github.com/gajena/useful_reading_logs#deep-neural-network)
+* [Dynamics and Controls System](https://github.com/gajena/useful_reading_logs#dynamics-and-controls-system)
+* [Probabilistic Robotics](https://github.com/gajena/useful_reading_logs#probabilistic-robotics)
+* [Programming](https://github.com/gajena/useful_reading_logs#programming)
+* [Courses on AI and Robotics](https://github.com/gajena/useful_reading_logs#courses-on-ai-and-robotics)
+* [Robotics Hardware](https://github.com/gajena/useful_reading_logs#robotics-hardware)
+
 ## Aerial Robotics
 * Best documents about aerial robotics [Click Here!](http://www.kostasalexis.com/literature-and-links1.html)
 * Survey on Computer Vision for UAVs: Current Developments and Trends [Click Here!](https://link.springer.com/content/pdf/10.1007%2Fs10846-017-0483-z.pdf)
@@ -32,7 +44,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * Design and implementation of an unmanned Tail-Sitter [Click Here!](http://ieeexplore.ieee.org/document/7353624/)
 * Documents of Model Predictive Control [Click Here!](https://github.com/AerialRobotics-IITK/Wiki/wiki/Model-Predictive-Control-(MPC))
 
-## Probablistic Robotics
+## Probabilistic Robotics
 * Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](https://github.com/gajena/useful_reading_logs/blob/master/docs/27-03-2018.pdf)
 * Georgia Tech Smoothing and Mapping library -GTSAM- [Click Here!](https://bitbucket.org/gtborg/gtsam/src/develop/)
 
