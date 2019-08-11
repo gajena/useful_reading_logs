@@ -12,7 +12,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * [Programming](https://github.com/gajena/useful_reading_logs#programming)
 * [Courses on AI and Robotics](https://github.com/gajena/useful_reading_logs#courses-on-ai-and-robotics)
 * [Robotics Hardware](https://github.com/gajena/useful_reading_logs#robotics-hardware)
-
+* [Useful Software Commands](https://github.com/gajena/useful_reading_logs#useful-software-commands)
 ## Aerial Robotics
 * Best documents about aerial robotics [Click Here!](http://www.kostasalexis.com/literature-and-links1.html)
 * Survey on Computer Vision for UAVs: Current Developments and Trends [Click Here!](https://link.springer.com/content/pdf/10.1007%2Fs10846-017-0483-z.pdf)
@@ -61,3 +61,9 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * Robots for Everyone (robotarium)[Click Here!](https://www.news.gatech.edu/features/robotarium-robotics-lab-accessible-all)
 * Rolling vs Global Shutter [Click Here!](http://www.arducam.com/camera-modules/camera-breakout-board/global-shutter-camera/)
 * List of Global shutter cameras [Click Here!](https://github.com/gajena/roc_the_saviour/wiki/Global-Shutter-Cameras)
+
+## Useful Software Commands
+* ARandR: useful in i3-wm multimonitor setup.
+* i3-wm: improved tiling wm
+* ksnapshot: screen-capture utility that is more full-featured than the default gnome one and works in i3
+* feh: super-fast image viewer
