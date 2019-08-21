@@ -43,7 +43,7 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * Documents of Model Predictive Control [Click Here!](https://github.com/AerialRobotics-IITK/Wiki/wiki/Model-Predictive-Control-(MPC))
 
 ## Probabilistic Robotics
-* Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](https://github.com/gajena/useful_reading_logs/blob/master/docs/27-03-2018.pdf)
+* Lecture on Robot Motion Planning (University of Freigburg) [Click Here!](http://ais.informatik.uni-freiburg.de/teaching/ss11/robotics/slides/)
 * Georgia Tech Smoothing and Mapping library -GTSAM- [Click Here!](https://bitbucket.org/gtborg/gtsam/src/develop/)
 
 ## Programming
