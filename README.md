@@ -56,3 +56,8 @@ Every day, I'm adding all the web links I've read and found useful or interestin
 * i3-wm: improved tiling wm
 * ksnapshot: screen-capture utility that is more full-featured than the default gnome one and works in i3
 * feh: super-fast image viewer
+* [Barrier:](https://gbatemp.net/threads/tutorial-compiling-and-installing-barrier-synergy-fork-for-kvm-l4t-ubuntu.538573/) 
+Open-source KVM software
+* scrot: fast screenshots `scrot -s '%Y-%m-%d-%H_%M_%S_scrot.png' -e 'mv $f ~/dir'
+
+
